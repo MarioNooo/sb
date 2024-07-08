@@ -1,4 +1,4 @@
-#Overview
+# Overview
 
 sb, the SCO Breaker, generates serial numbers, activation keys and
 registration keys for SCO products, such as UnixWare 7.1.4.
